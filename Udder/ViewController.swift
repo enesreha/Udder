@@ -15,8 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     override func viewWillAppear(_ animated: Bool) {
-        if sdfg;jfs;njgbh
+        
     }
 
+    override func viewDidDisappear(_ animated: Bool) {
+        <#code#>
+    }
 }
 
